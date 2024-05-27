@@ -21,7 +21,7 @@ const Car = {
     },
 };
 Car.getHorsePower();
-part3: ("\n\tCoklorful T-Shirt\n");
+part3: ("\n\tColorful T-Shirt\n");
 let Tshirt = {
     name: "Nike",
     price: 2000,

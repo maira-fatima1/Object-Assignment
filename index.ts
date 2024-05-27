@@ -71,7 +71,7 @@ const Car : Car ={
 };
 Car.getHorsePower()
 
-part3:("\n\tCoklorful T-Shirt\n")
+part3:("\n\tColorful T-Shirt\n")
 
 // Challenge.no:3
 // 1. Design a type alias named Product to represent a T-shirt object with properties
